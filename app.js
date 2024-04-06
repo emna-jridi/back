@@ -10,7 +10,7 @@ const employee =  require('./Router/EmployeeRoute')
 
 const cors = require('cors');
 const corsOptions = {
-    origin: 'https://DevEvalSystem.onrender.com' 
+    origin: 'https://emna-jridi.github.io/front/' 
   };
 app.use(cors(corsOptions));
 
